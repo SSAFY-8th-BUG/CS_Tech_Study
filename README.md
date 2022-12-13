@@ -6,16 +6,16 @@ Every THU 9 P.M.
 
 |이름|GitHub|이름|GitHub|
 |---|---|---|---|
-|빛누리|[@bnuri00](https://github.com/bnuri00)|주영|[@JuyoungKimmy-Kim](https://github.com/JuyoungKimmy-Kim)|
+|빛누리|[@bnuri00](https://github.com/bnuri00)|혁근|[@kwonhyeokgeun](https://github.com/kwonhyeokgeun)|
 |시우|[@SIU-JANG](https://github.com/SIU-JANG)|상민|[@tableMinPark](https://github.com/tableMinPark)|
-|혁근|[@kwonhyeokgeun](https://github.com/kwonhyeokgeun)||
+
 
 
 ## 명예의 전당👑
 
-|이름|GitHub|
-|---|---|
-|성아|[@seongahpark](https://github.com/seongahpark)|
+|이름|GitHub|이름|GitHub|
+|---|---|---|---|
+|성아|[@seongahpark](https://github.com/seongahpark)|주영|[@JuyoungKimmy-Kim](https://github.com/JuyoungKimmy-Kim)|
 
 ## 진행방식
 1. 주제가 선정되면 스터디 날 까지 해당 주제 각자 공부 ([Gyoogle](https://gyoogle.dev/blog/), 구글링 등)
